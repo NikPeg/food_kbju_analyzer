@@ -6,7 +6,7 @@ Telegram-бот для определения БЖУ (белки, жиры, уг
 - Telegram аккаунт
 
 ## Быстрый запуск
-Данные для обучения и best_chp : [data/models]([https://python.org](https://disk.yandex.ru/d/HYq-6fk9yI6O3w))
+Данные для обучения и best_chp : [data/models](https://disk.yandex.ru/d/HYq-6fk9yI6O3w)
 ```bash
 curl -L https://disk.yandex.ru/d/HYq-6fk9yI6O3w -o models/best_model.pth
 git clone https://github.com/NikPeg/food_kbju_analyzer.git
