@@ -1,0 +1,13 @@
+aiogram==3.2.0
+torch>=2.0.0
+torchvision>=0.15.0
+Pillow>=9.0.0
+matplotlib>=3.6.0
+seaborn>=0.12.0
+numpy>=1.21.0
+aiofiles>=23.0.0
+ftfy
+regex
+tqdm
+git+https://github.com/openai/CLIP.git
+python-dotenv
