@@ -1,0 +1,7 @@
+{
+    "model": "Qwen2.5-VL-7B-Instruct",
+    "optimizer": "bs_few_shot",
+    "few_shots_count": 30,
+    "train_samples_cnt": 1000,
+    "test_samples_cnt": 500
+}

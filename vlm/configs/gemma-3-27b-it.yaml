@@ -1,0 +1,7 @@
+model: /home/student/vllm_models/google/gemma-3-27b-it
+served_model_name: gemma-3-27b-it
+tensor_parallel_size: 1
+max_num_seqs: 512
+dtype: auto
+port: 1337
+host: localhost

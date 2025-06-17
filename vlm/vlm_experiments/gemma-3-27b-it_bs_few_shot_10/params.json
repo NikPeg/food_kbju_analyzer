@@ -1,0 +1,7 @@
+{
+    "model": "gemma-3-27b-it",
+    "optimizer": "bs_few_shot",
+    "few_shots_count": 10,
+    "train_samples_cnt": 1000,
+    "test_samples_cnt": 500
+}

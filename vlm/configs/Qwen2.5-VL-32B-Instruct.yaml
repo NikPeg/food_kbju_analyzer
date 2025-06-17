@@ -1,0 +1,8 @@
+model: /home/student/vllm_models/Qwen/Qwen2.5-VL-32B-Instruct
+served_model_name: Qwen2.5-VL-32B-Instruct
+tensor_parallel_size: 1
+max_num_seqs: 512
+max_model_len: 16384
+dtype: auto
+port: 1337
+host: localhost
